@@ -1,7 +1,7 @@
 # VS Seti Plus
 
 <p align="center">
-  <img src="images/icon.png" alt="VS Seti Plus" width="128" />
+  <img src="icon.png" alt="VS Seti Plus" width="128" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="images/mockup.png" alt="VS Seti Plus Mockup" width="100%" />
+  <img src="mockup.png" alt="VS Seti Plus Mockup" width="100%" />
 </p>
 
 <br>
@@ -37,7 +37,7 @@ Most icon themes are either minimal to the point of being useless, or so complex
 We don't just map random icons to file extensions. Every icon is designed to be instantly recognizable in your file tree:
 
 <p align="center">
-  <img src="images/icon-grid.png" alt="VS Seti Plus Icon Grid" width="100%" />
+  <img src="icon-grid.png" alt="VS Seti Plus Icon Grid" width="100%" />
 </p>
 
 **Language Support:**
@@ -59,7 +59,7 @@ Images (PNG, JPG, SVG, WebP, AVIF) · Audio (MP3, WAV, FLAC) · Video (MP4, MOV,
 Your icon theme now comes with a matching **dark color theme** that doesn't just look good — it works with you, not against you.
 
 <p align="center">
-  <img src="images/editor-preview.png" alt="Editor Preview" width="100%" />
+  <img src="editor-preview.png" alt="Editor Preview" width="100%" />
 </p>
 
 ### 🎨 Thoughtful Color Design
@@ -78,7 +78,7 @@ Your icon theme now comes with a matching **dark color theme** that doesn't just
 Suggestions, hovers, the command palette — they all float with subtle translucency:
 
 <p align="center">
-  <img src="images/widgets-preview.png" alt="Translucent Widgets" width="600" />
+  <img src="widgets-preview.png" alt="Translucent Widgets" width="600" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ Reload VSCode when prompted
 ### What you get:
 
 <p align="center"> 
-    <img src="images/enhanced-features.png" alt="Enhanced Features" width="100%" /> 
+    <img src="widget-preview.png" alt="Enhanced Features" width="100%" /> 
 </p>
 
 | Feature               | Without CSS	  | With CSS         |
@@ -155,10 +155,6 @@ Reload VSCode when prompted
 ---
 
 ## 📸 Screenshots
-
-<p align="center"> <img src="images/screenshot-1.png" alt="Full Workspace" width="100%" /> <br> <em>Full workspace with icon theme + color theme</em> </p>
-<p align="center"> <img src="images/screenshot-2.png" alt="File Explorer Close-Up" width="100%" /> <br> <em>200+ icons — every file type has its own identity</em> </p>
-<p align="center"> <img src="images/screenshot-3.png" alt="Code Highlighting" width="100%" /> <br> <em>Carefully balanced syntax colors</em> </p>
 
 ---
 
