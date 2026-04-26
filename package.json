@@ -1,0 +1,42 @@
+{
+  "name": "vs-seti-plus",
+  "displayName": "VS Seti Plus",
+  "description": "For now, nothing. Just more functional than the original Seti icons, and better than Monokai Pro.",
+  "version": "1.2.2",
+  "publisher": "HazeqBinMohsin", 
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-seti-plus",
+        "label": "Seti Plus (Dark)",
+        "path": "./icontheme.json"
+      }
+    ],
+    "themes": [
+      {
+        "label": "Seti Plus (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./colortheme-dark.jsonc"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "22.x",
+    "eslint": "^9.39.2",
+    "@vscode/test-cli": "^0.0.12",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
