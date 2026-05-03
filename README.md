@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/icon.png" alt="VS Seti Plus" width="128" />
 </p>
 
 <h1 align="center">VS Seti Plus</h1>
-<h3 align="center">An Elegant Interface for Professionals</h3>
+<h3 align="center">An Elegant Interface for Professionals</h3> -->
 
 <!-- <p align="center"> -->
   <!-- <a href="https://marketplace.visualstudio.com/items?itemName=HazeqBinMohsin.vs-seti-plus">
@@ -12,6 +12,8 @@
   <!-- <img src="https://img.shields.io/visual-studio-marketplace/i/HazeqBinMohsin.vs-seti-plus?color=3fb950&label=installs&style=flat-square" alt="Installs" /> -->
   <!-- <img src="https://img.shields.io/badge/Verified%20Publisher-%E2%9C%93-blue?style=flat-square" alt="Verified Publisher" /> -->
 <!-- </p> -->
+
+<img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/header.png" alt="VS Seti Plus Mockup" width="100%" />
 
 ---
 
