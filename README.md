@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/HazeqBinMohsin/vs-seti-plus/main/header.png" alt="VS Seti Plus Mockup" width="100%" />
 
----
+<!-- --- -->
 
 <br>
 
